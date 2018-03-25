@@ -1,0 +1,12 @@
+
+
+'''c
+1 int main ( int argc , char ** argv ) {
+2   double x , x0 , dx , prec ;
+3 
+4   x0 = atof ( argv [1]) ;
+5   prec = atof ( argv [2]) ;
+6   printf ( " \ nRaiz = %.10 g em % d itera ç õ es \ n " ,x0 , SolucaoPontoFixo (&x0 , prec ) ) ;
+7   return 0;
+8}
+'''
