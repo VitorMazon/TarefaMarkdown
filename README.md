@@ -1,2 +1,2 @@
 # TarefaMarkdown
-Material para [Markdown](https://guides.gihub.com/features/mastering-markdown/)
+Material para [Markdown](https://guides.github.com/features/mastering-markdown/)
